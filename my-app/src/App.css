@@ -36,3 +36,28 @@
     transform: rotate(360deg);
   }
 }
+
+.editor {
+  width: 1000px;
+  margin: auto;
+  border: 1px solid #000;
+}
+
+.wrapperClassName {
+  background-color: #e9e9e9;
+  padding: 16px;
+}
+
+.toolbarClassName {
+  padding: 16px;
+}
+
+.editorClassName {
+  background-color: #fff;
+  padding: 0 8px;
+  height: 200px;
+}
+
+.App .rdw-editor-main {
+  height: 200px;
+}
